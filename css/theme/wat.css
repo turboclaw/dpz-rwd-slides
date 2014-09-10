@@ -1,0 +1,15 @@
+body {
+	font: 2.5em monospace;	
+}
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4 {
+	margin-bottom: 0.5em;
+}
+.reveal code {
+	background: rgba(200, 200, 200, 0.3);
+}
+.reveal p, .reveal li {
+	margin-bottom: 0.5em;
+}
