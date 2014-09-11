@@ -6,6 +6,10 @@ body {
 .reveal h3,
 .reveal h4 {
 	margin-bottom: 0.5em;
+	word-wrap: none;
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	hyphens: none;
 }
 .reveal code {
 	background: rgba(200, 200, 200, 0.3);
